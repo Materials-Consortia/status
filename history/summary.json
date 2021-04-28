@@ -22,18 +22,20 @@
     "url": "https://www.optimade.org/providers-dashboard/",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "providers-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 53,
     "timeDay": 53,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-28": 0
+    }
   },
   {
     "name": "Providers index meta-database",
