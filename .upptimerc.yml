@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.optimade.org
   #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/wiki/Materials-Consortia/OPTIMADE/images/logos/optimade-no-text.svg
+  logoUrl: https://raw.githubusercontent.com/Materials-Consortia/optimade-python-tools/master/images/optimade_logo_180x180.svg
   name: OPTIMADE Status
   introTitle: "A status page for OPTIMADE-associated web pages, powered by Upptime. Upptime is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
