@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 232,
+    "time": 354,
+    "timeDay": 237,
     "timeWeek": 348,
-    "timeMonth": 342,
-    "timeYear": 357,
+    "timeMonth": 337,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "providers-dashboard",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 26,
     "timeDay": 15,
     "timeWeek": 24,
-    "timeMonth": 26,
+    "timeMonth": 25,
     "timeYear": 26,
     "dailyMinutesDown": {
       "2021-04-28": 19
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 400,
-    "timeWeek": 357,
-    "timeMonth": 448,
-    "timeYear": 470,
+    "time": 466,
+    "timeDay": 309,
+    "timeWeek": 341,
+    "timeMonth": 421,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 264,
+    "time": 279,
+    "timeDay": 228,
     "timeWeek": 269,
-    "timeMonth": 288,
-    "timeYear": 281,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
