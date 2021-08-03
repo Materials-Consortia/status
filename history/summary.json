@@ -4,10 +4,10 @@
     "url": "https://www.optimade.org",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 343,
@@ -16,6 +16,7 @@
     "timeMonth": 341,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2021-08-03": 2,
       "2021-06-08": 23
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://www.optimade.org/providers-dashboard/",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "providers-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 27,
@@ -36,6 +37,7 @@
     "timeMonth": 30,
     "timeYear": 27,
     "dailyMinutesDown": {
+      "2021-08-03": 1,
       "2021-06-08": 23,
       "2021-04-28": 19
     }
@@ -45,10 +47,10 @@
     "url": "https://providers.optimade.org/",
     "icon": "https://favicons.githubusercontent.com/providers.optimade.org",
     "slug": "providers-index-meta-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
@@ -56,16 +58,18 @@
     "timeWeek": 465,
     "timeMonth": 426,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 1
+    }
   },
   {
     "name": "Schemas",
     "url": "https://schemas.optimade.org/",
     "icon": "https://favicons.githubusercontent.com/schemas.optimade.org",
     "slug": "schemas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +78,8 @@
     "timeWeek": 362,
     "timeMonth": 343,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   }
 ]
