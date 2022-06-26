@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 411,
-    "timeDay": 581,
-    "timeWeek": 599,
-    "timeMonth": 577,
-    "timeYear": 422,
+    "time": 412,
+    "timeDay": 714,
+    "timeWeek": 607,
+    "timeMonth": 587,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2021-08-11": 29
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 37,
-    "timeDay": 91,
-    "timeWeek": 72,
-    "timeMonth": 66,
-    "timeYear": 38,
+    "timeDay": 81,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 39,
     "dailyMinutesDown": {
       "2021-08-11": 28
     }
@@ -45,14 +45,14 @@
     "icon": "https://favicons.githubusercontent.com/providers.optimade.org",
     "slug": "providers-index-meta-database",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 460,
-    "timeDay": 598,
-    "timeWeek": 432,
+    "timeDay": 233,
+    "timeWeek": 467,
     "timeMonth": 456,
     "timeYear": 459,
     "dailyMinutesDown": {
@@ -83,10 +83,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 349,
-    "timeDay": 735,
-    "timeWeek": 470,
-    "timeMonth": 460,
+    "time": 350,
+    "timeDay": 543,
+    "timeWeek": 510,
+    "timeMonth": 464,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2021-08-11": 27
