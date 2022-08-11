@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 424,
-    "timeDay": 428,
-    "timeWeek": 552,
-    "timeMonth": 560,
-    "timeYear": 450,
-    "dailyMinutesDown": {
-      "2021-08-11": 29
-    }
+    "time": 425,
+    "timeDay": 710,
+    "timeWeek": 583,
+    "timeMonth": 567,
+    "timeYear": 451,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Providers dashboard",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 39,
-    "timeDay": 25,
-    "timeWeek": 46,
-    "timeMonth": 71,
+    "timeDay": 115,
+    "timeWeek": 54,
+    "timeMonth": 73,
     "timeYear": 43,
-    "dailyMinutesDown": {
-      "2021-08-11": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Providers index meta-database",
@@ -50,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 476,
-    "timeDay": 800,
-    "timeWeek": 632,
-    "timeMonth": 660,
+    "time": 477,
+    "timeDay": 374,
+    "timeWeek": 575,
+    "timeMonth": 654,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2022-04-14": 39,
@@ -64,8 +60,7 @@
       "2022-02-02": 17,
       "2021-11-16": 27,
       "2021-09-21": 17,
-      "2021-09-14": 23,
-      "2021-08-11": 28
+      "2021-09-14": 23
     }
   },
   {
@@ -80,12 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 359,
-    "timeDay": 429,
-    "timeWeek": 444,
-    "timeMonth": 450,
+    "timeDay": 298,
+    "timeWeek": 416,
+    "timeMonth": 433,
     "timeYear": 373,
-    "dailyMinutesDown": {
-      "2021-08-11": 27
-    }
+    "dailyMinutesDown": {}
   }
 ]
