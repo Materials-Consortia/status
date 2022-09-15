@@ -4,19 +4,19 @@
     "url": "https://www.optimade.org",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 513,
-    "timeWeek": 499,
-    "timeMonth": 491,
+    "timeDay": 438,
+    "timeWeek": 482,
+    "timeMonth": 487,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 45
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.optimade.org/providers-dashboard/",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "providers-dashboard",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 40,
-    "timeDay": 158,
-    "timeWeek": 56,
-    "timeMonth": 49,
+    "timeDay": 91,
+    "timeWeek": 52,
+    "timeMonth": 48,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 45
     }
   },
   {
@@ -74,19 +74,19 @@
     "url": "https://schemas.optimade.org/",
     "icon": "https://favicons.githubusercontent.com/schemas.optimade.org",
     "slug": "schemas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 471,
-    "timeWeek": 456,
-    "timeMonth": 417,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 367,
+    "timeDay": 478,
+    "timeWeek": 460,
+    "timeMonth": 419,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 45
     }
   }
 ]
