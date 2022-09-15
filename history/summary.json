@@ -4,9 +4,9 @@
     "url": "https://www.optimade.org",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 499,
     "timeMonth": 491,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Providers dashboard",
     "url": "https://www.optimade.org/providers-dashboard/",
     "icon": "https://favicons.githubusercontent.com/www.optimade.org",
     "slug": "providers-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 56,
     "timeMonth": 49,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Providers index meta-database",
@@ -70,9 +74,9 @@
     "url": "https://schemas.optimade.org/",
     "icon": "https://favicons.githubusercontent.com/schemas.optimade.org",
     "slug": "schemas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,6 +85,8 @@
     "timeWeek": 456,
     "timeMonth": 417,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
