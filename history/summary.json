@@ -2,7 +2,7 @@
   {
     "name": "Homepage",
     "url": "https://www.optimade.org",
-    "icon": "https://favicons.githubusercontent.com/www.optimade.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.optimade.org.ico",
     "slug": "homepage",
     "status": "up",
     "uptime": "99.99%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 433,
-    "timeDay": 440,
-    "timeWeek": 414,
-    "timeMonth": 446,
-    "timeYear": 457,
+    "time": 434,
+    "timeDay": 619,
+    "timeWeek": 420,
+    "timeMonth": 454,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2022-09-15": 45
     }
@@ -22,7 +22,7 @@
   {
     "name": "Providers dashboard",
     "url": "https://www.optimade.org/providers-dashboard/",
-    "icon": "https://favicons.githubusercontent.com/www.optimade.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.optimade.org.ico",
     "slug": "providers-dashboard",
     "status": "up",
     "uptime": "99.98%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 40,
-    "timeDay": 16,
+    "timeDay": 53,
     "timeWeek": 26,
-    "timeMonth": 41,
+    "timeMonth": 42,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2022-09-15": 45
@@ -42,19 +42,19 @@
   {
     "name": "Providers index meta-database",
     "url": "https://providers.optimade.org/",
-    "icon": "https://favicons.githubusercontent.com/providers.optimade.org",
+    "icon": "https://icons.duckduckgo.com/ip3/providers.optimade.org.ico",
     "slug": "providers-index-meta-database",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 511,
-    "timeDay": 538,
-    "timeWeek": 556,
-    "timeMonth": 787,
-    "timeYear": 533,
+    "time": 515,
+    "timeDay": 2260,
+    "timeWeek": 777,
+    "timeMonth": 841,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2022-09-11": 18,
       "2022-08-26": 17,
@@ -71,7 +71,7 @@
   {
     "name": "Schemas",
     "url": "https://schemas.optimade.org/",
-    "icon": "https://favicons.githubusercontent.com/schemas.optimade.org",
+    "icon": "https://icons.duckduckgo.com/ip3/schemas.optimade.org.ico",
     "slug": "schemas",
     "status": "up",
     "uptime": "99.99%",
@@ -80,10 +80,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 371,
-    "timeDay": 316,
-    "timeWeek": 371,
-    "timeMonth": 444,
-    "timeYear": 379,
+    "timeDay": 621,
+    "timeWeek": 406,
+    "timeMonth": 452,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2022-09-15": 45
     }
