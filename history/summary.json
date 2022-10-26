@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 441,
-    "timeDay": 767,
-    "timeWeek": 541,
-    "timeMonth": 467,
+    "time": 442,
+    "timeDay": 718,
+    "timeWeek": 582,
+    "timeMonth": 481,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2022-09-15": 45
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 125,
-    "timeWeek": 38,
-    "timeMonth": 45,
+    "timeDay": 47,
+    "timeWeek": 42,
+    "timeMonth": 46,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2022-09-15": 45
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/providers.optimade.org.ico",
     "slug": "providers-index-meta-database",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 528,
-    "timeDay": 581,
-    "timeWeek": 780,
-    "timeMonth": 739,
+    "time": 529,
+    "timeDay": 720,
+    "timeWeek": 797,
+    "timeMonth": 749,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2022-09-11": 18,
@@ -80,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 377,
-    "timeDay": 432,
-    "timeWeek": 368,
-    "timeMonth": 409,
-    "timeYear": 383,
+    "timeDay": 569,
+    "timeWeek": 364,
+    "timeMonth": 412,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2022-09-15": 45
     }
