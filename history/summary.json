@@ -79,19 +79,19 @@
     "url": "https://schemas.optimade.org/",
     "icon": "https://icons.duckduckgo.com/ip3/schemas.optimade.org.ico",
     "slug": "schemas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 399,
-    "timeDay": 326,
-    "timeWeek": 400,
-    "timeMonth": 443,
+    "timeDay": 327,
+    "timeWeek": 391,
+    "timeMonth": 440,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 10,
       "2022-09-15": 45
     }
   }
